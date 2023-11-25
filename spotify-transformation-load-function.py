@@ -1,7 +1,7 @@
 import json
 import boto3
 from datetime import datetime
-from io import StringIO
+from io import StringIOi
 import pandas as pd 
 
 def album(data):
