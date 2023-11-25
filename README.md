@@ -1,5 +1,5 @@
 ## Spotify-end-to-end-data-pipeline-project
-**Implement Complete Data Pipeline Data Engineering Project using Spotify
+**Implement Complete Data Pipeline Data Engineering Project using Spotify**
 
 • Integrating with Spotify API and extracting Data
 
